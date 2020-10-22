@@ -1,4 +1,4 @@
-package day02;
+package com.zyh.day02;
 
 /**
  * @ClassName StringTest01
