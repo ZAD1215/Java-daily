@@ -6,7 +6,7 @@ package com.zyh.day02;
  * @Author ZAD
  * @Date 2020/10/21
  **/
-public class StringTest01 {
+public class  StringTest01 {
     public static void main(String[] args) {
         //创建一个“abc”字符串对象，该对象的内存地址，让s1变量保存。
         //s1是一个引用，s1指向“abc”对象。
